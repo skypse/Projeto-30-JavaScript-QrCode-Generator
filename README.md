@@ -4,7 +4,7 @@
 
 Um simples gerador de QR Code construído com HTML, CSS e JavaScript que permite aos usuários inserir dados e gerar um código QR correspondente.
 
-⚙️ Funcionalidades Principais
+## ⚙️ Funcionalidades Principais
 - Permite aos usuários inserir dados para gerar um QR Code.
 - Gera um código QR com base nos dados inseridos.
 
